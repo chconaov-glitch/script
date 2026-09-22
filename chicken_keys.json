@@ -1,6 +1,6 @@
 [
   { "hash": "1775605139", "tier": "OWNER",   "expires": "2099-12-31" },
-  { "hash": "177565140", "tier": "OWNER",   "expires": "2099-12-31" },
+  { "hash": "1775605140", "tier": "OWNER",   "expires": "2099-12-31" },
   { "hash": "644132907", "tier": "SCANNER", "expires": "2026-06-30" },
   { "hash": "1384658432", "tier": "FREE",    "expires": "2099-12-31" }
 ]
